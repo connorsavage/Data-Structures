@@ -1,7 +1,7 @@
 /*
 *  File name : HashTableApp.java
 *  Purpose : Implements Strings in a linearly probing hash table
-*  Author : Connor Savage and Erin Hurlburt
+*  Author : Connor Savage
 *  Date : 2021-12-7
 */
 
