@@ -1,7 +1,6 @@
 /*
 *  File name: HuffmanCode.java
 *  Purpose  : Shows the Huffman coding encrypting and decrypting technique
-*  Author  : Erin Hurlburt and Connor Savage
 *  Date    : 2021-11-9
 */
 
